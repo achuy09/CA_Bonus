@@ -2,7 +2,7 @@
 Implementation paper: **The Breakthrough Memory Solutions for Improved Performance on LLM Inference**
 <br>This is the link of my implementation Video Demo:
 https://drive.google.com/file/d/1LgOjpNlGhjwFtobbR7meHiMovevG2Q09/view?usp=sharing
-<br>Implementation Document PDF will be attached in this repository: [M123040116 CA PDF](CA_Bonus/CA_M123040116%20Implementation.pdf)
+<br>Implementation Document PDF will be attached in this repository: [M123040116 CA PDF](CA_M123040116%20Implementation.pdf)
 
 <h1>Introduction</h1>
 In this implementation, a PIM Simulator was used to conduct some tests referenced in the paper. Simulations were performed based on the content of the document; however, various physical implementations could not be demonstrated due to the lack of essential tools, such as Samsung's AquaBolt-XL, a CXL-Memory controller, and several other tools mentioned in the paper. Therefore, efforts were made to carry out the work using the resources available and the online PIM simulator. An attempt was made to simulate the functionalities and behaviors discussed in the paper to the best extent possible. This approach allowed for a partial validation, even if the full physical implementation could not be realized.
